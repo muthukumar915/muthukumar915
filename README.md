@@ -7,7 +7,10 @@
 
 - 🌱 I’m currently learning **MERN DSA**
 
-- 📫 How to reach me <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white https://www.linkedin.com/in/kumar021/">
+- 📫 How to reach me <a href="https://www.linkedin.com/in/kumar021/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+</a>
+
 
 - ⚡ Fun fact **I am a Coder**
 
