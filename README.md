@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋There, I'm MK😎</h1>
+<h1>Hi👋There, I'm MK😎</h1>
 <h1>Weclome To My Page 👀🙌</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 
