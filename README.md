@@ -1,6 +1,6 @@
-<h1>Hi👋There, I'm MK😎</h1>
+<h2>Hi👋There, I'm MK😎</h2>
 
-<h3>Full Stack Web Developer Coder👨‍💻</h3>
+<p>Full Stack Web Developer Coder👨‍💻</p>
 
 
 - 🔭 I’m currently working on **Novitech R&D Pvt Ltd**
