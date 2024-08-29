@@ -3,11 +3,11 @@
 <p>Full Stack Web Developer Coder👨‍💻</p>
 
 
-- 🔭 I’m currently working on **Novitech R&D Pvt Ltd**
+- 🔭 I’m currently working on **NoviTech R&D Pvt Ltd**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **MERN DSA**
 
-- 📫 How to reach me **rmuthukumar@81016gmail.com**
+- 📫 How to reach me <a href="linkedin.com/in/kumar021"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 - ⚡ Fun fact **I am a Coder**
 
