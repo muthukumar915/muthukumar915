@@ -23,8 +23,9 @@
   <br>
 
 <p>Glad to see you here!</p>
+
 <img src="https://img.shields.io/github/followers/muthukumar915.svg?style=social&label=Follow&maxAge=2592000" alt="GitHub Followers Badge">
-<img src="https://img.shields.io/github/watchers/muthukumar915/my-repo.svg" alt="GitHub Watchers Badge">(http://github.com/muthukumar915)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=muthukumar915&label=Visitors&labelColor=%2337d67a&countColor=%23f47373)](https://visitorbadge.io/status?path=muthukumar915)
 
 
 
