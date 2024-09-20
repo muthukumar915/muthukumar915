@@ -24,7 +24,7 @@
 
 <p>Glad to see you here!</p>
 <img src="https://img.shields.io/github/followers/muthukumar915.svg?style=social&label=Follow&maxAge=2592000" alt="GitHub Followers Badge">
-<img src="https://img.shields.io/github/watchers/muthukumar915/my-repo.svg" alt="GitHub Watchers Badge">
+<img src="https://img.shields.io/github/watchers/muthukumar915/my-repo.svg" alt="GitHub Watchers Badge">(http://github.com/muthukumar915)
 
 
 
