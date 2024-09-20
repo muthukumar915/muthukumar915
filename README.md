@@ -7,9 +7,6 @@
 </div>
 
 
-<p>Glad to see you here!</p>
-<img src="https://img.shields.io/github/followers/muthukumar915.svg?style=social&label=Follow&maxAge=2592000" alt="GitHub Followers Badge">
-
 <a href="https://www.linkedin.com/in/kumar021/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
 </a>
@@ -21,9 +18,9 @@
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
   <br>
-<p>Glad to see you here!</p>
-<img src="https://visitor-badge.glitch.me/badge?page_id=muthukumar915" alt="Visitor Badge">
 
+<p>Glad to see you here!</p>
+<img src="https://img.shields.io/github/followers/muthukumar915.svg?style=social&label=Follow&maxAge=2592000" alt="GitHub Followers Badge">
 
 
 - 🔭 I’m currently working on **NoviTech R&D Pvt Ltd**
