@@ -1,4 +1,7 @@
-<img src="http://ForTheBadge.com/images/badges/built-with-love.svg">
+<img src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjY4MTQyMDMsIm5iZiI6MTcyNjgxMzkwMywicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTIwVDA2MzE0M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTkxYTg3NjNmYWViMDZkNWFmNzRhMWJlNmRhODE3ZWFhNDRhOTg0MjliODg5NDAxNTIzYTIzYjE2ODc4Y2YwZGUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.pBs6dNLuimiKPeglHvdbxAcxbCYMOU-WO04AO7k_aZ0">
+
+<div align="center">
+<img src="http://ForTheBadge.com/images/badges/built-with-love.svg"></div>
 <div align="center">
 
 
@@ -21,8 +24,8 @@
 
 <p>Glad to see you here!</p>
 <img src="https://img.shields.io/github/followers/muthukumar915.svg?style=social&label=Follow&maxAge=2592000" alt="GitHub Followers Badge">
-<p>Glad to see you here!</p>
-<img src="https://visitor-badge.glitch.me/badge?page_id=muthukumar915" alt="Visitor Count">
+<img src="https://img.shields.io/github/watchers/muthukumar915/my-repo.svg" alt="GitHub Watchers Badge">
+
 
 
 
