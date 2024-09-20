@@ -22,9 +22,8 @@
 
   <br>
 
-Glad to see you here!
 
-![GitHub Followers Badge](https://img.shields.io/github/followers/muthukumar915.svg?style=social&label=Follow&maxAge=2592000)
+Glad to see you here! ![GitHub Followers Badge](https://img.shields.io/github/followers/muthukumar915.svg?style=social&label=Follow&maxAge=2592000)
 ![Visitor Badge](https://api.visitorbadge.io/api/visitors?path=muthukumar915&label=Visitors&labelColor=%232ccce4&countColor=%23555555)
 
 
