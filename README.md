@@ -21,6 +21,9 @@
 
 <p>Glad to see you here!</p>
 <img src="https://img.shields.io/github/followers/muthukumar915.svg?style=social&label=Follow&maxAge=2592000" alt="GitHub Followers Badge">
+<p>Glad to see you here!</p>
+<img src="https://visitor-badge.glitch.me/badge?page_id=muthukumar915" alt="Visitor Count">
+
 
 
 - 🔭 I’m currently working on **NoviTech R&D Pvt Ltd**
