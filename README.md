@@ -7,7 +7,9 @@
 </div>
 
 
-<h2>Hi👋There, I'm MK😎</h2>
+<p>Follow me on GitHub!</p>
+<img src="https://img.shields.io/github/followers/muthukumar915.svg?style=social&label=Follow&maxAge=2592000" alt="GitHub Followers Badge">
+
 <a href="https://www.linkedin.com/in/kumar021/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
 </a>
