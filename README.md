@@ -7,7 +7,7 @@
 </div>
 
 
-<p>Follow me on GitHub!</p>
+<p>Glad to see you here!</p>
 <img src="https://img.shields.io/github/followers/muthukumar915.svg?style=social&label=Follow&maxAge=2592000" alt="GitHub Followers Badge">
 
 <a href="https://www.linkedin.com/in/kumar021/" target="_blank">
