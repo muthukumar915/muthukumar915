@@ -18,7 +18,10 @@
   <a href="">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
-<p>Full Stack Web Developer Coder👨‍💻</p>
+  <br>
+<p>Glad to see you here!</p>
+<img src="https://visitor-badge.glitch.me/badge?page_id=muthukumar915" alt="Visitor Badge">
+
 
 
 - 🔭 I’m currently working on **NoviTech R&D Pvt Ltd**
